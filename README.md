@@ -1,12 +1,12 @@
 # Inteligência Artificial aplicada ao Mercado Financeiro e à Análise de Dados
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Este projeto foi desenvolvido como parte do desafio da DIO "Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM".
 
 O objetivo é explorar como a Inteligência Artificial pode ser aplicada ao mercado financeiro e à análise de dados, utilizando o NotebookLM como ferramenta de estudo e pesquisa baseada em fontes selecionadas.
 
-## 🎯 Objetivos
+## Objetivos
 
 - Compreender aplicações da Inteligência Artificial no mercado financeiro;
 - Identificar benefícios e riscos relacionados ao uso de IA;
@@ -15,7 +15,7 @@ O objetivo é explorar como a Inteligência Artificial pode ser aplicada ao merc
 - Utilizar o NotebookLM para estudar, organizar e analisar informações de diferentes fontes;
 - Desenvolver e testar prompts para obter respostas mais específicas e estruturadas.
 
-## 📚 Fontes utilizadas
+## Fontes utilizadas
 
 Foram selecionadas cinco fontes para alimentar o NotebookLM:
 
@@ -29,7 +29,7 @@ Os links completos das fontes estão disponíveis em:
 
 `fontes/links-das-fontes.md`
 
-## 🤖 Uso do NotebookLM
+## Uso do NotebookLM
 
 As fontes foram adicionadas ao NotebookLM para permitir a exploração do tema por meio de perguntas e prompts.
 
@@ -40,7 +40,7 @@ Foram realizados testes para analisar:
 - Riscos relacionados à utilização de IA no mercado financeiro;
 - Organização das informações em um Miniguia de Estudo.
 
-## 🧪 Testes de prompts
+## Testes de prompts
 
 Foram desenvolvidos e testados diferentes prompts, buscando melhorar a qualidade, organização e especificidade das respostas.
 
@@ -52,7 +52,7 @@ Os testes e suas variações estão documentados em:
 
 `prompts/testes-e-variacoes.md`
 
-## 📖 Miniguia de Estudo
+## Miniguia de Estudo
 
 Como resultado da exploração das fontes, foi desenvolvido um Miniguia de Estudo contendo:
 
@@ -68,7 +68,7 @@ Os materiais estão disponíveis na pasta:
 
 `estudo/`
 
-## 🧠 Aprendizados
+## Aprendizados
 
 Durante o projeto, foi possível compreender melhor como a Inteligência Artificial pode apoiar atividades relacionadas ao mercado financeiro e à análise de dados.
 
@@ -76,7 +76,7 @@ Também foi possível perceber a importância de elaborar prompts claros, fornec
 
 O uso do NotebookLM permitiu explorar as informações das fontes selecionadas e transformá-las em materiais de estudo estruturados.
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 projeto-ia-mercado-financeiro/
@@ -94,3 +94,14 @@ projeto-ia-mercado-financeiro/
 │   └── miniguia-estudo.md
 │
 └── README.md
+
+## Ferramentas utilizadas
+
+- NotebookLM
+- GitHub
+- Markdown
+- Fontes públicas de instituições e organizações relacionadas ao mercado financeiro e à tecnologia
+
+## Conclusão
+
+O projeto demonstrou como uma ferramenta de IA baseada em fontes pode auxiliar no processo de aprendizagem, permitindo organizar informações, testar diferentes formas de elaboração de prompts e criar materiais de estudo sobre Inteligência Artificial aplicada ao mercado financeiro e à análise de dados.
