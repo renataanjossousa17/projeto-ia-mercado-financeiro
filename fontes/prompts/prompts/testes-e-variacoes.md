@@ -53,3 +53,21 @@ Aplicação: quando possível, solicitar exemplos práticos.
 Critérios: definir categorias para comparar ou classificar informações.
 Modelo reutilizável
 > Com base exclusivamente nas fontes fornecidas, explique **[TEMA]** considerando **[CONTEXTO]**. Organize a resposta em **[CATEGORIAS]**, apresente exemplos práticos quando existirem nas fontes e indique quais fontes sustentam cada informação.
+
+## Evidências dos testes
+
+Durante a realização do projeto, foram realizados três testes de prompts no NotebookLM.
+
+### Teste 1 — IA no mercado financeiro
+Foi utilizado um prompt para identificar aplicações, benefícios, riscos e exemplos práticos da Inteligência Artificial no mercado financeiro.
+
+### Teste 2 — IA, análise de dados e Power BI
+O segundo teste buscou relacionar Inteligência Artificial, análise de dados e Power BI no contexto de instituições financeiras.
+
+### Teste 3 — Riscos da Inteligência Artificial
+O terceiro teste analisou os principais riscos da IA, organizando-os em categorias como dados, segurança, privacidade, vieses, modelos, governança e tomada de decisão.
+
+### Miniguia de Estudo
+Após os testes, foi utilizado o NotebookLM para criar um Miniguia de Estudo reunindo os principais conceitos, aplicações, benefícios, riscos e termos relacionados ao tema.
+
+As respostas foram analisadas a partir das fontes disponibilizadas no NotebookLM.
